@@ -1,0 +1,6 @@
+this is garbo
+ff 1
+dd 2
+tt 3
+avg: 2.0
+top student: tt
